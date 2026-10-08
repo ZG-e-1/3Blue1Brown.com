@@ -77,6 +77,11 @@ const links = [
     label: "RSS",
     link: site.socials.rss,
   },
+  {
+    icon: <GithubLogoIcon />,
+    label: "OpenAI Math Results",
+    link: "https://github.com/openai/math",
+  },
 ];
 
 // home page follow section
